@@ -1,1 +1,2 @@
 Hello LearnGit
+This is my personal repo
